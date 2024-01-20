@@ -6,6 +6,6 @@ printf("Enter two numbet:");
 scanf("%d",&a);
 scanf("%d",&b);
 sum=a+b;
-printf("The addition is :%d",sum);
+printf("The addition is :",sum);
 return 0;
 }
