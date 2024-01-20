@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#include<stdio.c>
+int main()
+{
+int a,b,sum;
+printf("Enter two numbet:");
+scanf("%d",&a);
+scanf("%d",&b);
+sum=a+b;
+printf("The addition is :%d",sum);
+return 0;
+}
